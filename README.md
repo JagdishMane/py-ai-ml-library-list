@@ -11,3 +11,4 @@
 | 9    | Django       | A high-level Python web framework that encourages rapid development and clean design. | [Django](https://www.djangoproject.com/) |
 | 10   | BeautifulSoup | A library used for scraping data from HTML and XML files. | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) |
 | 11   | spaCy         | An advanced NLP library in Python for processing and understanding large volumes of text. | [spaCy](https://spacy.io/) |
+| 12   | NLTK          | A comprehensive library for natural language processing, providing tools and datasets for research and development. | [NLTK](https://www.nltk.org/) |
