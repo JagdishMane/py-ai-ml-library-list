@@ -12,3 +12,4 @@
 | TensorFlow   | An open-source library for machine learning and artificial intelligence used for building and deploying models. | [TensorFlow](https://www.tensorflow.org/) |
 | scikit-learn | A machine learning library that provides simple and efficient tools for data mining and analysis. | [scikit-learn](https://scikit-learn.org/) |
 | spaCy        | An advanced NLP library in Python for processing and understanding large volumes of text. | [spaCy](https://spacy.io/) |
+| Gensim       | A robust library for topic modeling in Python, widely used for unsupervised learning with large text corpora. | [Gensim](https://radimrehurek.com/gensim/) |
