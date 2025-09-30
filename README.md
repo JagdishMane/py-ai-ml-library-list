@@ -13,3 +13,4 @@
 | scikit-learn | A machine learning library that provides simple and efficient tools for data mining and analysis. | [scikit-learn](https://scikit-learn.org/) |
 | spaCy        | An advanced NLP library in Python for processing and understanding large volumes of text. | [spaCy](https://spacy.io/) |
 | Gensim       | A robust library for topic modeling in Python, widely used for unsupervised learning with large text corpora. | [Gensim](https://radimrehurek.com/gensim/) |
+| Language-tool-python | This is a Python wrapper for LanguageTool. LanguageTool is open-source grammar tool, also known as the spellchecker for OpenOffice. This library allows you to make to detect grammar errors and spelling mistakes through a Python script or through a command-line interface. | [language-tool-python](https://pypi.org/project/language-tool-python/)
